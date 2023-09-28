@@ -1,11 +1,12 @@
 Example README file for project. 
 
 **Project purpose** 
-- a brief description of what the project does
+- a brief description of what the project is
 
 **Dataset details** 
-- where I got the dataset (e.g maybe a link to the website if its kaggle
+- where I got the dataset (e.g  link to the website e.g kaggle)
 
 **technology/languages used**
 - Why I chose a specific language for this dataset
 - Data storage used (e.g excel) 
+- Creation of code (e.g jupyter notebooks) 
